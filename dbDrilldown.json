@@ -1,0 +1,106 @@
+
+{
+    "categories": ["2016-03-17", "2016-09-17", "2017-03-17", "2017-09-17", "2018-03-17"],
+    "drilldownOptions": {
+        "sabinepass": {
+            "seriesData": [{
+                "data": [
+                    12051351,
+                    19590602,
+                    9679252,
+                    21859920,
+                    12412390
+                ],
+                "name": "Sabine Pass - Oil",
+                "visible": true
+            }, {
+                "data": [
+                    21859920,
+                    12051351,
+                    9679252,
+                    19590602,
+                    12412390
+                ],
+                "name": "Sabine Pass - Electric",
+                "visible": true
+            }, {
+                "data": [
+                    5061915,
+                    12951120,
+                    29018159,
+                    12001314,
+                    11314813
+                ],
+                "name": "Sabine Pass - Pharma",
+                "visible": true
+            }]
+        },
+        "covepoint": {
+            "seriesData": [{
+                "data": [
+                    12051351,
+                    19590602,
+                    9679252,
+                    21859920,
+                    12412390
+                ],
+                "name": "Cove Point - Oil",
+                "visible": true
+            }, {
+                "data": [
+                    21859920,
+                    12051351,
+                    9679252,
+                    19590602,
+                    12412390
+                ],
+                "name": "Cove Point - Electric",
+                "visible": true
+            }, {
+                "data": [
+                    5061915,
+                    12951120,
+                    29018159,
+                    12001314,
+                    11314813
+                ],
+                "name": "Cove Point - Pharma",
+                "visible": true
+            }]
+        },
+        "corpuschristi": {
+            "seriesData": [{
+                "data": [
+                    12051351,
+                    19590602,
+                    9679252,
+                    21859920,
+                    12412390
+                ],
+                "name": "Corpus Christi - Oil",
+                "visible": false
+            }, {
+                "data": [
+                    21859920,
+                    12051351,
+                    9679252,
+                    19590602,
+                    12412390
+                ],
+                "name": "Corpus Christi - Electric",
+                "visible": false
+            }, {
+                "data": [
+                    5061915,
+                    12951120,
+                    29018159,
+                    12001314,
+                    11314813
+                ],
+                "name": "Corpus Christi - Pharma",
+                "visible": false
+            }]
+
+        }
+    }
+}
